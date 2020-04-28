@@ -1,1 +1,1 @@
-# lohani
+# Repo contains shell scripts
